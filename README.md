@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on data analytics and an essay in Mathematics<br>🌱 I’m currently learning about using Mathematics in Finance<br>⚡ Fun fact: I ranked in the top 0.022% in Fantasy Premier League last year
+🔭 Second Year Maths student <br>⚡ Fun fact: I ranked in the top 0.022% in Fantasy Premier League last year
 
 
 ## 🌐 Socials:
