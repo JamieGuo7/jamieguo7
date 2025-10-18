@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Second Year Maths student <br>⚡ Fun fact: I ranked in the top 0.022% in Fantasy Premier League last year
+🔭 Third Year Maths student at University of Warwick <br>⚡ Fun fact: I ranked in the top 0.022% in Fantasy Premier League in 2023/24
 
 
 ## 🌐 Socials:
