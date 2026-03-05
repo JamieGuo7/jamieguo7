@@ -15,7 +15,9 @@ My favourite project is [Beating the Benjmark](https://github.com/JamieGuo7/Beat
 ---
 
 **⚡ Fun fact**
+
 I ranked in the **top 0.022%** globally in Fantasy Premier League (2023/24).
 
 **🤝 Connect**
+
 Connect with me on [LinkedIn](https://www.linkedin.com/in/jamie-nm-guo/)!
