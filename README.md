@@ -1,17 +1,21 @@
-# 💫 About Me:
-🔭 Third Year Maths student at University of Warwick <br>⚡ Fun fact: I ranked in the top 0.022% in Fantasy Premier League in 2023/24
+## Hi there, I'm Jamie! 👋
+I’m a third-year Mathematics student at the University of Warwick.
 
+This profile is where I experiment with code. I love the creative side of programming and wish to continue building fun projects!
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jamie-nm-guo) 
+My favourite project is [Beating the Benjmark](https://github.com/JamieGuo7/Beating-the-Benjmark) which explores machine learning techniques in the context of trading. 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) 
+---
 
+**🛠 Tools**
+- **Data & Analysis:** Python (Pandas, NumPy, Scikit-Learn) & R
+- **Web:** JavaScript, PHP, and SQL
+- **Academic:** LaTeX
+
+---
+
+**⚡ Fun fact**
+I ranked in the **top 0.022%** globally in Fantasy Premier League (2023/24).
+
+**🤝 Connect**
+Connect with me on [LinkedIn](https://www.linkedin.com/in/jamie-nm-guo/)!
